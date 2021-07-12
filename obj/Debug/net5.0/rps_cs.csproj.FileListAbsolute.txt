@@ -1,0 +1,16 @@
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.exe
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.deps.json
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.runtimeconfig.json
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.runtimeconfig.dev.json
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.dll
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\ref\rps_cs.dll
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\bin\Debug\net5.0\rps_cs.pdb
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.csproj.AssemblyReference.cache
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.AssemblyInfoInputs.cache
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.AssemblyInfo.cs
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.csproj.CoreCompileInputs.cache
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.dll
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\ref\rps_cs.dll
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.pdb
+C:\source\codeworks\codeworks-projects\w10d1\rps_cs\obj\Debug\net5.0\rps_cs.genruntimeconfig.cache
